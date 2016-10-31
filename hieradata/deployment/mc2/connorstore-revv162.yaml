@@ -1,0 +1,11 @@
+---
+mlb2c::mlenv : 'revv162'
+mlb2c::dbuser : 'connorstorerevapp'
+mlb2c::dbpass : ''
+mlb2c::dbendpoint : ':1521:'
+
+mliws::mlenv : 'revv162'
+mliws::dbuser : 'connorstorerevapp'
+mliws::dbpass : ''
+mliws::dbendpoint : ':1521:'
+

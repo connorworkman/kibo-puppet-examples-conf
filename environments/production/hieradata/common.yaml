@@ -1,0 +1,8 @@
+classes:
+  - ntp
+  - demo-module
+  - apache2
+ntp::autoupdate: true
+ntp::enable: true
+ntp::servers:
+  - ec2-35-161-126-55.us-west-2.compute.amazonaws.com iburst

@@ -1,0 +1,11 @@
+---
+mlb2c::mlenv : 'prdv162'
+mlb2c::dbuser : 'connorstoreprdapp'
+mlb2c::dbpass : ''
+mlb2c::dbendpoint : ':1521:'
+
+mliws::mlenv : 'prdv162'
+mliws::dbuser : 'connorstoreprdapp'
+mliws::dbpass : ''
+mliws::dbendpoint : ':1521:'
+
